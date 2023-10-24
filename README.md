@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @SandeepaEpsilon
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Quantum Computing
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/sandeepa-epsilon/)
+# Profile of Sandeepa Dilshan Alagiyawanna
 
-<!---
-SandeepaEpsilon/SandeepaEpsilon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 AI undergrad | 👨‍💻 Cyber Security enthusiast | 🚀 Multitasking pro | 🖥 Tech enthusiast | ✍️ Writer @medium | 👋 Let's connect!
+
+👋 Hi, I'm Sandeepa, a 22-year-old enthusiast from the stunning landscapes of Sri Lanka 🌴. My unwavering curiosity is my driving force towards achieving my goals.
+
+📚 Currently, I'm an Undergraduate student at the University of Moratuwa, pursuing a BSc Hons in AI.
+
+💼 I gained invaluable experience as an Intern at RHO (Anuradhapura Regional Head Office) of Peoples Bank Sri Lanka, where I thrived in multitasking challenges.
+
+🎓 My academic achievements include:
+- Advanced Level at Central College Anuradhapura:
+  - A in Combined Maths
+  - A in Physics
+  - A in ICT
+  (2.2154 Z Score)
+
+- Ordinary Level at Central College Anuradhapura
+
+🌐 You can find all my certificates and details on my [LinkedIn profile](https://www.linkedin.com/in/sandeepa-d-alagiyawanna/).
+
+💻 I'm passionate about technology and have a presence on various platforms:
+
+- [HackerRank Profile](https://www.hackerrank.com/TeamCoDE_FeCTioN)
+- [Google Developer Profile](https://g.dev/0x3psilon)
+- [GitHub Profile](https://github.com/SandeepaDilshanAlagiyawanna)
+- [Microsoft Learning Account](https://learn.microsoft.com/en-us/users/0x3psilon/)
+- [Medium](https://medium.com/@sandeepa.d.alagiyawanna)
+- [Hack The Box](https://app.hackthebox.com/profile/1665487)
+- [HackerEarth](https://www.hackerearth.com/@sandeepa.d.alagiyawanna)
+
+Feel free to connect and explore the journey of a young mind committed to continuous learning and growth! 🚀🌟
