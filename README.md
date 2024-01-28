@@ -17,7 +17,7 @@
 
 - Ordinary Level at Central College Anuradhapura
 
-🌐 You can find all my certificates and details on my [LinkedIn profile](https://www.linkedin.com/in/sandeepa-d-alagiyawanna/).
+🌐 You can find all my certificates and details on my [LinkedIn profile](https://www.linkedin.com/in/sandeepa-0x3psilon/).
 
 💻 I'm passionate about technology and have a presence on various platforms:
 
