@@ -1,6 +1,6 @@
 # Profile of Sandeepa Dilshan Alagiyawanna
 
-🎓 AI undergrad | 👨‍💻 Cyber Security enthusiast | 🚀 Multitasking pro | 🖥 Tech enthusiast | ✍️ Writer @medium | 👋 Let's connect!
+🎓 AI undergrad | 👨‍💻 Quantum Computer enthusiast | 🚀 Multitasking pro | 🖥 Tech enthusiast | ✍️ Writer @medium | 👋 Let's connect!
 
 👋 Hi, I'm Sandeepa, a 22-year-old enthusiast from the stunning landscapes of Sri Lanka 🌴. My unwavering curiosity is my driving force towards achieving my goals.
 
