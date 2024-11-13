@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77A0E&size=32&center=true&vCenter=true&width=800&height=50&lines=Hello,+I'm+Sandeepa+Dilshan+%F0%9F%91%8B;Quantum+Machine+Learning+Enthusiast;AI+Undergraduate+at+University+of+Moratuwa;Passionate+about+Physics+%26+Quantum+Computing;Aspiring+Researcher+%26+Innovator!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77A0E&size=32&center=true&vCenter=true&width=920&height=50&lines=Hello,+I'm+Sandeepa+Dilshan+%F0%9F%91%8B;Quantum+Machine+Learning+Researcher;AI+Undergraduate+at+University+of+Moratuwa;Passionate+about+Physics+%26+Quantum+Computing;Aspiring+Researcher+%26+Innovator!">
 </div>
 
 ## 🌐 Connect with Me:
@@ -60,10 +60,10 @@
 ---
 
 ## ✨ Fun Fact:
-I think about **Physics** and **Quantum Computing** every single day!
+I think about **Artificial Intelligence** and **Quantum Computing** every single day!
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77A0E&size=24&center=true&vCenter=true&lines=Thank+you+for+visiting!+😄; Let's+connect+and+collaborate!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77A0E&size=20&center=true&vCenter=true&lines=Thank+you+for+visiting!+😄;Let's+connect+and+collaborate!+🚀">
 </div>
