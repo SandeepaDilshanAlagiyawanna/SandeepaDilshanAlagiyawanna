@@ -65,5 +65,5 @@ I think about **Physics** and **Quantum Computing** every single day!
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77A0E&size=24&center=true&vCenter=true&lines=Thank+you+for+visiting!+😄;Let's+connect+and+collaborate!+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F77A0E&size=24&center=true&vCenter=true&lines=Thank+you+for+visiting!+😄; Let's+connect+and+collaborate!+🚀">
 </div>
